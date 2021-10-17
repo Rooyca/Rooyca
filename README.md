@@ -9,6 +9,7 @@
 - 🥅 I would like to contribute more to Open Source projects
 - ⚡ About me: I love playing cardgames and watching series
 
+
 ### Connect with me:
 
 [<img align="left" alt="Rooyca's Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -17,6 +18,7 @@
 [<img align="left" alt="Rooyca | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
+
 
 ### Languages and Tools:
 
@@ -32,12 +34,9 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+---
 
-  <img align="left" alt="Rooyca's GitHub Stats" src="https://github-readme-stats.rooyca.vercel.app/api?username=rooyca&show_icons=true&hide_border=true" />
-
-</details>
+[![Rooyca's GitHub stats](https://github-readme-stats.vercel.app/api?username=rooyca)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://rooyca.github.io/b/
 [twitter]: https://twitter.com/rroyca
