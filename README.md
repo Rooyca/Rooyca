@@ -1,11 +1,4 @@
 ### Hi there, I'm Ronald - aka [Rooyca][website] 👋
-- 👀 I’m interested in:
-  - ✨APIs✨
-  - Crypto
-  - Blockchain
-  - ✨P2P✨
-- 📫 How to reach me:
-  - Telegram: @seiseiseis
 
 [![Website](https://img.shields.io/website?label=Rooyca's&style=for-the-badge&url=https%3A%2F%2Frooyca.github.io%2Fb)](https://rooyca.github.io/b/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rroyca?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frroyca&screen_name=rroyca)
