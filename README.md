@@ -5,17 +5,20 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.reddit.com/user/r0yca" target="_blank">
-      <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
+      <img src="https://img.shields.io/badge/Reddit-blue?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
     </a>
     <a href="https://twitter.com/RRoyca" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://t.me/seiseiseis" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Rooyca&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
-
+**[Spanish](./ES_README.md) - [English](./README.md)**
 ### :woman_technologist: About Me 
 Full Stack Developer from Colombia.
 - :telescope: Currently studying Linguistics at the Universidad Nacional de Colombia and learning Web Development by my own.
@@ -69,7 +72,7 @@ Full Stack Developer from Colombia.
 
 ---
 
-### :writing_hand: Blog Posts (in spanish)
+### :writing_hand: Latest Blog Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
 - [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://dev.to/rooyca/alojar-wordpress-en-la-nube-google-cloud-29gi)
 - [Hacer Deploy de FastAPI y Celery &lpar;con RabbitMQ y PostgreSQL&rpar; en Heroku](https://dev.to/rooyca/hacer-deploy-de-fastapi-y-celery-con-rabbitmq-y-postgresql-en-heroku-1d9k)
