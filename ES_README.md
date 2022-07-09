@@ -5,10 +5,13 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.reddit.com/user/r0yca" target="_blank">
-      <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
+      <img src="https://img.shields.io/badge/Reddit-blue?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
     </a>
     <a href="https://twitter.com/RRoyca" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://t.me/seiseiseis" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Rooyca&style=flat-square&color=blue" alt=""/>
