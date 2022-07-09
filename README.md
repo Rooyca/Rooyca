@@ -69,7 +69,7 @@ Full Stack Developer from Colombia.
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Blog Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
 - [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://dev.to/rooyca/alojar-wordpress-en-la-nube-google-cloud-29gi)
 - [Hacer Deploy de FastAPI y Celery &lpar;con RabbitMQ y PostgreSQL&rpar; en Heroku](https://dev.to/rooyca/hacer-deploy-de-fastapi-y-celery-con-rabbitmq-y-postgresql-en-heroku-1d9k)
