@@ -71,4 +71,5 @@ Full Stack Developer from Colombia.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [hola](https://dev.to/rooyca/hola-2pl8)
 <!-- BLOG-POST-LIST:END -->
