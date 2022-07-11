@@ -25,7 +25,7 @@ Full Stack Developer from Colombia.
 
 - :seedling: Apacionate about learning new things everyday.
 
-- :zap: In my free time I watch movies, read philosophy and lisen to music... so much music.
+- :zap: In my free time I watch movies, read and lisen to music... so much music.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rooyca-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-cantillo-calderon-698bba1b9/)
 
