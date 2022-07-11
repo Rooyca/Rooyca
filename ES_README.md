@@ -26,7 +26,7 @@ Desarollador Full Stack Developer de Colombia.
 
 - :seedling: Me encanta aprender cosas nuevas todos los días.
 
-- :zap: En mi tiempo libre miro películas, leo filosofía y escucho música... muchísima música.
+- :zap: En mi tiempo libre miro películas, leo y escucho música... muchísima música.
 
 - :mailbox:¿Cómo contactarme? : [![Linkedin Badge](https://img.shields.io/badge/-rooyca-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-cantillo-calderon-698bba1b9/)
 
