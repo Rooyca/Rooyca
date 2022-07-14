@@ -18,7 +18,13 @@
 </div>
 
 ---
-**[Spanish](./ES_README.md) - [English](./README.md)**
+<a href="./ES_README.md">
+  <img src="https://img.shields.io/badge/Spanish-blue" alt="Spanish">
+</a>
+<a href="./README.md">
+  <img src="https://img.shields.io/badge/English-blue" alt="Spanish">
+</a>
+  
 ### :woman_technologist: About Me 
 Full Stack Developer from Colombia.
 - :telescope: Currently studying Linguistics at the Universidad Nacional de Colombia and learning Web Development by my own.
