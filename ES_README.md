@@ -18,7 +18,12 @@
 </div>
 
 ---
-**[Español](./ES_README.md) - [Inglés](./README.md)**
+<a href="./ES_README.md">
+  <img src="https://img.shields.io/badge/Español-blue" alt="Español">
+</a>
+<a href="./README.md">
+  <img src="https://img.shields.io/badge/Inglés-blue" alt="Inglés">
+</a>
 
 ### :woman_technologist: Sobre mí
 Desarollador Full Stack Developer de Colombia.
