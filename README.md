@@ -15,15 +15,15 @@ ___
 
 **[📰 Recent activity](https://github.com/Rooyca)**
 * ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
+  * [#e2d1bc8](https://github.com/Rooyca/Rooyca/commit/e2d1bc8) Update Metrics.yml
+* ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
+  * [#e56dd8f](https://github.com/Rooyca/Rooyca/commit/e56dd8f) Update metrics.template.md
+* ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
   * [#f3306fd](https://github.com/Rooyca/Rooyca/commit/f3306fd) Create metrics.template.md
 * ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
   * [#df6c356](https://github.com/Rooyca/Rooyca/commit/df6c356) Create Metrics.yml
 * ➡️ Pushed 1 commit in [Rooyca/listltbxd](https://github.com/Rooyca/listltbxd) on branch `main`
   * [#bc678b0](https://github.com/Rooyca/listltbxd/commit/bc678b0) better look on older devices
-* ➡️ Pushed 1 commit in [Rooyca/rooyca-portafolio](https://github.com/Rooyca/rooyca-portafolio) on branch `main`
-  * [#0221cd7](https://github.com/Rooyca/rooyca-portafolio/commit/0221cd7) Updating info
-* ➡️ Pushed 1 commit in [Rooyca/listltbxd](https://github.com/Rooyca/listltbxd) on branch `main`
-  * [#73f4150](https://github.com/Rooyca/listltbxd/commit/73f4150) changing look on older devices
 
 
 ___
