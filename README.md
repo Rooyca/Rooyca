@@ -82,7 +82,17 @@ Full Stack Developer from Colombia.
 
 ___
 
+<img src="https://github.com/Rooyca/Rooyca/blob/main/.cache/languages.svg">
+
+___
+
+<img src="https://github.com/Rooyca/Rooyca/blob/main/.cache/achievements.svg">
+
+___
+
 **[📰 Recent activity](https://github.com/Rooyca)**
+* ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
+  * [#c9091af](https://github.com/Rooyca/Rooyca/commit/c9091af) Update metrics.template.md
 * ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
   * [#a3db84a](https://github.com/Rooyca/Rooyca/commit/a3db84a) Update Metrics.yml
 * ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
@@ -91,20 +101,10 @@ ___
   * [#e56dd8f](https://github.com/Rooyca/Rooyca/commit/e56dd8f) Update metrics.template.md
 * ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
   * [#f3306fd](https://github.com/Rooyca/Rooyca/commit/f3306fd) Create metrics.template.md
-* ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
-  * [#df6c356](https://github.com/Rooyca/Rooyca/commit/df6c356) Create Metrics.yml
 
-
-
+ 
 ___
 
-<img src="https://github.com/Rooyca/Rooyca/blob/main/.cache/languages.svg">
-
-___
-
-<img src="https://github.com/Rooyca/Rooyca/blob/main/.cache/achievements.svg">
-
-___
     
 ### :writing_hand: Latest Blog Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
