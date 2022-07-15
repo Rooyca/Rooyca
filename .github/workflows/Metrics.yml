@@ -16,7 +16,7 @@ jobs:
           user: Rooyca
           template: markdown
           filename: README.md
-          markdown: https://raw.githubusercontent.com/xHyroM/xHyroM/master/.github/metrics.template.md
+          markdown: https://raw.githubusercontent.com/Rooyca/Rooyca/main/.github/metrics.template.md
           config_output: markdown
           base: header, activity, community, repositories, metadata
           config_timezone: America/bogota
