@@ -82,11 +82,6 @@ Full Stack Developer from Colombia.
 
 ___
 
-<%- await include(`partials/activity.ejs`) %>
-
-
-___
-
 <%- await embed(`languages`, {languages:true, languages_details:"percentage, bytes-size", config_display:"large"}) %>
 
 ___
@@ -94,6 +89,11 @@ ___
 <%- await embed(`achievements`, { achievements: true, achievements_secrets: true, achievements_threshold: "C" }) %>
 
 ___
+
+<%- await include(`partials/activity.ejs`) %>
+ 
+___
+
     
 ### :writing_hand: Latest Blog Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
