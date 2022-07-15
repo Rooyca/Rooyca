@@ -1,19 +1,90 @@
 <p align="center">
-    <!-- <img src="https://avatars.githubusercontent.com/u/56601352" width="192" alt="hyro's pfp" /> -->
     <h1 align="center">Hi, my name is Rooyca 👋</h1>
 </p>
 
-I'm a programmer. I work on a couple of open source projects, but also closed source projects. I work on projects like [Mr. Infinity](https://discord.com/oauth2/authorize?client_id=720321585625694239&scope=bot%20applications.commands&permissions=8&redirect_uri=https://blobs.gq/imanager&prompt=consent&response_type=code), [GCommands](https://github.com/Garlic-Team/GCommands), [Muploader](https://github.com/xHyroM/Muploder), [Roles Bot](https://github.com/xHyroM/roles-bot) and many more.  
-I'll be glad if you take a look at my github 😀👀.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/ronald-cantillo-calderon-698bba1b9/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.reddit.com/user/r0yca" target="_blank">
+      <img src="https://img.shields.io/badge/Reddit-blue?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
+    </a>
+    <a href="https://twitter.com/RRoyca" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://t.me/seiseiseis" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=Rooyca&style=flat-square&color=blue" alt=""/>
+</div>
 
-___
-**Data**
+---
+<a href="./ES_README.md">
+  <img src="https://img.shields.io/badge/Spanish-blue" alt="Spanish">
+</a>
+<a href="./README.md">
+  <img src="https://img.shields.io/badge/English-blue" alt="Spanish">
+</a>
+  
+### :woman_technologist: About Me 
+Full Stack Developer from Colombia.
+- :telescope: Currently studying Linguistics at the Universidad Nacional de Colombia and learning Web Development by my own.
 
-<img src="https://github.com/Rooyca/Rooyca/blob/main/.cache/base.svg">
+- :seedling: Apacionate about learning new things everyday.
+
+- :zap: In my free time I watch movies, read and lisen to music... so much music.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rooyca-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-cantillo-calderon-698bba1b9/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools 
+<div>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi" alt="FastApi" width="40" height="40"/>&nbsp;
+  </div>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+    </div>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-plain-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku"  alt="Heroku" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp;
+  </div>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  </div>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure"  alt="Azure" width="40" height="20"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flas" width="40" height="30"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="40" height="30"/>&nbsp;
+</div>
+
+---
+
+### :fire: My Stats 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rooyca&theme=onedark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
 
 ___
 
 **[📰 Recent activity](https://github.com/Rooyca)**
+* ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
+  * [#a3db84a](https://github.com/Rooyca/Rooyca/commit/a3db84a) Update Metrics.yml
 * ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
   * [#e2d1bc8](https://github.com/Rooyca/Rooyca/commit/e2d1bc8) Update Metrics.yml
 * ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
@@ -22,13 +93,8 @@ ___
   * [#f3306fd](https://github.com/Rooyca/Rooyca/commit/f3306fd) Create metrics.template.md
 * ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
   * [#df6c356](https://github.com/Rooyca/Rooyca/commit/df6c356) Create Metrics.yml
-* ➡️ Pushed 1 commit in [Rooyca/listltbxd](https://github.com/Rooyca/listltbxd) on branch `main`
-  * [#bc678b0](https://github.com/Rooyca/listltbxd/commit/bc678b0) better look on older devices
 
 
-___
-
-<img src="https://github.com/Rooyca/Rooyca/blob/main/.cache/isocalendar.svg">
 
 ___
 
@@ -39,3 +105,14 @@ ___
 <img src="https://github.com/Rooyca/Rooyca/blob/main/.cache/achievements.svg">
 
 ___
+    
+### :writing_hand: Latest Blog Posts (in spanish)
+<!-- BLOG-POST-LIST:START -->
+- [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://dev.to/rooyca/alojar-wordpress-en-la-nube-google-cloud-29gi)
+- [Hacer Deploy de FastAPI y Celery &lpar;con RabbitMQ y PostgreSQL&rpar; en Heroku](https://dev.to/rooyca/hacer-deploy-de-fastapi-y-celery-con-rabbitmq-y-postgresql-en-heroku-1d9k)
+- [Como extraer la obra completa de Shakespeare de una Imagen](https://dev.to/rooyca/como-extraer-la-obra-completa-de-shakespeare-de-una-imagen-4gn5)
+- [Una guía para compartir archivos en la Blockchain con IPFS](https://dev.to/rooyca/una-guia-para-compartir-archivos-en-la-blockchain-con-ipfs-2j28)
+- [Crea tu primera API con FLASK](https://dev.to/rooyca/crea-tu-primera-api-con-flask-1ej4)
+<!-- BLOG-POST-LIST:END -->
+
+---
