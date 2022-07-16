@@ -91,16 +91,14 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/Rooyca)**
-* ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
-  * [#c9091af](https://github.com/Rooyca/Rooyca/commit/c9091af) Update metrics.template.md
-* ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
-  * [#a3db84a](https://github.com/Rooyca/Rooyca/commit/a3db84a) Update Metrics.yml
-* ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
-  * [#e2d1bc8](https://github.com/Rooyca/Rooyca/commit/e2d1bc8) Update Metrics.yml
-* ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
-  * [#e56dd8f](https://github.com/Rooyca/Rooyca/commit/e56dd8f) Update metrics.template.md
-* ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
-  * [#f3306fd](https://github.com/Rooyca/Rooyca/commit/f3306fd) Create metrics.template.md
+* ➡️ Pushed 1 commit in [Rooyca/rooyca-portafolio](https://github.com/Rooyca/rooyca-portafolio) on branch `main`
+  * [#359a263](https://github.com/Rooyca/rooyca-portafolio/commit/359a263) done
+* ➡️ Pushed 1 commit in [Rooyca/back-portafolio](https://github.com/Rooyca/back-portafolio) on branch `main`
+  * [#67023cb](https://github.com/Rooyca/back-portafolio/commit/67023cb) split
+* ➡️ Pushed 1 commit in [Rooyca/rooyca-portafolio](https://github.com/Rooyca/rooyca-portafolio) on branch `main`
+  * [#c5f82ed](https://github.com/Rooyca/rooyca-portafolio/commit/c5f82ed) updating
+* ⏺️ Created new branch main in [Rooyca/back-portafolio](https://github.com/Rooyca/back-portafolio)
+* ⏺️ Created new repository  [Rooyca/back-portafolio](https://github.com/Rooyca/back-portafolio)
 
  
 ___
