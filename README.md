@@ -92,11 +92,12 @@ ___
 
 **[📰 Recent activity](https://github.com/Rooyca)**
 * ➡️ Pushed 1 commit in [Rooyca/portfolio](https://github.com/Rooyca/portfolio) on branch `main`
+  * [#0339339](https://github.com/Rooyca/portfolio/commit/0339339) Portfolio
+* ➡️ Pushed 1 commit in [Rooyca/portfolio](https://github.com/Rooyca/portfolio) on branch `main`
   * [#35238be](https://github.com/Rooyca/portfolio/commit/35238be) Portfolio
 * ⏺️ Created new branch main in [Rooyca/portfolio](https://github.com/Rooyca/portfolio)
 * ⏺️ Created new repository  [Rooyca/portfolio](https://github.com/Rooyca/portfolio)
 * ⏺️ Created new branch main in [Rooyca/portfolio](https://github.com/Rooyca/portfolio)
-* ⏺️ Created new repository  [Rooyca/portfolio](https://github.com/Rooyca/portfolio)
 
  
 ___
