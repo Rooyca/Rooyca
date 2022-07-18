@@ -91,6 +91,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/Rooyca)**
+* ➡️ Pushed 1 commit in [Rooyca/back-pdfvision](https://github.com/Rooyca/back-pdfvision) on branch `main`
+  * [#fcf4a15](https://github.com/Rooyca/back-pdfvision/commit/fcf4a15) update structure
 * ➡️ Pushed 1 commit in [Rooyca/pdf-visual](https://github.com/Rooyca/pdf-visual) on branch `main`
   * [#ade327d](https://github.com/Rooyca/pdf-visual/commit/ade327d) updated images
 * ➡️ Pushed 1 commit in [Rooyca/portfolio](https://github.com/Rooyca/portfolio) on branch `main`
@@ -99,8 +101,6 @@ ___
   * [#1ff82dc](https://github.com/Rooyca/portfolio/commit/1ff82dc) updated portfolio
 * ➡️ Pushed 1 commit in [Rooyca/portfolio](https://github.com/Rooyca/portfolio) on branch `main`
   * [#f0c34f1](https://github.com/Rooyca/portfolio/commit/f0c34f1) update twitter account
-* ➡️ Pushed 1 commit in [Rooyca/portfolio](https://github.com/Rooyca/portfolio) on branch `main`
-  * [#0339339](https://github.com/Rooyca/portfolio/commit/0339339) Portfolio
 
  
 ___
@@ -108,11 +108,11 @@ ___
     
 ### :writing_hand: Latest Blog Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
-- [Enviar correos desde Gmail usando tu propio dominio](https://dev.to/rooyca/enviar-correos-desde-gmail-usando-tu-propio-dominio-599)
 - [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://dev.to/rooyca/alojar-wordpress-en-la-nube-google-cloud-29gi)
 - [Hacer Deploy de FastAPI y Celery &lpar;con RabbitMQ y PostgreSQL&rpar; en Heroku](https://dev.to/rooyca/hacer-deploy-de-fastapi-y-celery-con-rabbitmq-y-postgresql-en-heroku-1d9k)
 - [Como extraer la obra completa de Shakespeare de una Imagen](https://dev.to/rooyca/como-extraer-la-obra-completa-de-shakespeare-de-una-imagen-4gn5)
 - [Una guía para compartir archivos en la Blockchain con IPFS](https://dev.to/rooyca/una-guia-para-compartir-archivos-en-la-blockchain-con-ipfs-2j28)
+- [Crea tu primera API con FLASK](https://dev.to/rooyca/crea-tu-primera-api-con-flask-1ej4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
