@@ -11,7 +11,7 @@
     <a href="https://www.reddit.com/user/r0yca" target="_blank">
       <img src="https://img.shields.io/badge/Reddit-blue?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
     </a>
-    <a href="https://twitter.com/RRoyca" target="_blank">
+    <a href="https://twitter.com/rooycaa" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://t.me/seiseiseis" target="_blank">
