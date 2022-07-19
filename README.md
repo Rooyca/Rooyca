@@ -91,6 +91,8 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/Rooyca)**
+* ➡️ Pushed 1 commit in [Rooyca/twitter-news](https://github.com/Rooyca/twitter-news) on branch `main`
+  * [#ed02299](https://github.com/Rooyca/twitter-news/commit/ed02299) twitter bot
 * ⏺️ Created new branch main in [Rooyca/twitter-news](https://github.com/Rooyca/twitter-news)
 * ⏺️ Created new repository  [Rooyca/twitter-news](https://github.com/Rooyca/twitter-news)
 * ➡️ Pushed 3 commits in [Rooyca/pdf-visual](https://github.com/Rooyca/pdf-visual) on branch `customizable`
@@ -99,8 +101,6 @@ ___
   * [#d42dd64](https://github.com/Rooyca/pdf-visual/commit/d42dd64) Remove Old info
 * ➡️ Pushed 1 commit in [Rooyca/back-pdfvision](https://github.com/Rooyca/back-pdfvision) on branch `main`
   * [#676beee](https://github.com/Rooyca/back-pdfvision/commit/676beee) ready to work
-* ➡️ Pushed 1 commit in [Rooyca/back-pdfvision](https://github.com/Rooyca/back-pdfvision) on branch `main`
-  * [#fcf4a15](https://github.com/Rooyca/back-pdfvision/commit/fcf4a15) update structure
 
  
 ___
