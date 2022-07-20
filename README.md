@@ -91,16 +91,16 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/Rooyca)**
+* ➡️ Pushed 1 commit in [Rooyca/back-pdfvision](https://github.com/Rooyca/back-pdfvision) on branch `main`
+  * [#d12553f](https://github.com/Rooyca/back-pdfvision/commit/d12553f) up
+* ➡️ Pushed 1 commit in [Rooyca/back-pdfvision](https://github.com/Rooyca/back-pdfvision) on branch `main`
+  * [#00f67f2](https://github.com/Rooyca/back-pdfvision/commit/00f67f2) up
 * ➡️ Pushed 1 commit in [Rooyca/PDF-Vision](https://github.com/Rooyca/PDF-Vision) on branch `customizable`
   * [#416a304](https://github.com/Rooyca/PDF-Vision/commit/416a304) up
 * ➡️ Pushed 1 commit in [Rooyca/back-pdfvision](https://github.com/Rooyca/back-pdfvision) on branch `main`
   * [#d2b50f5](https://github.com/Rooyca/back-pdfvision/commit/d2b50f5) up
 * ➡️ Pushed 1 commit in [Rooyca/pdf-visual](https://github.com/Rooyca/pdf-visual) on branch `customizable`
   * [#e022b48](https://github.com/Rooyca/pdf-visual/commit/e022b48) Update README.md
-* ➡️ Pushed 1 commit in [Rooyca/pdf-visual](https://github.com/Rooyca/pdf-visual) on branch `main`
-  * [#461f0b4](https://github.com/Rooyca/pdf-visual/commit/461f0b4) Update README.md
-* ➡️ Pushed 1 commit in [Rooyca/pdf-visual](https://github.com/Rooyca/pdf-visual) on branch `customizable`
-  * [#961adad](https://github.com/Rooyca/pdf-visual/commit/961adad) up
 
  
 ___
@@ -108,11 +108,11 @@ ___
     
 ### :writing_hand: Latest Blog Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
-- [Enviar correos desde Gmail usando tu propio dominio](https://dev.to/rooyca/enviar-correos-desde-gmail-usando-tu-propio-dominio-599)
 - [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://dev.to/rooyca/alojar-wordpress-en-la-nube-google-cloud-29gi)
 - [Hacer Deploy de FastAPI y Celery &lpar;con RabbitMQ y PostgreSQL&rpar; en Heroku](https://dev.to/rooyca/hacer-deploy-de-fastapi-y-celery-con-rabbitmq-y-postgresql-en-heroku-1d9k)
 - [Como extraer la obra completa de Shakespeare de una Imagen](https://dev.to/rooyca/como-extraer-la-obra-completa-de-shakespeare-de-una-imagen-4gn5)
 - [Una guía para compartir archivos en la Blockchain con IPFS](https://dev.to/rooyca/una-guia-para-compartir-archivos-en-la-blockchain-con-ipfs-2j28)
+- [Crea tu primera API con FLASK](https://dev.to/rooyca/crea-tu-primera-api-con-flask-1ej4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
