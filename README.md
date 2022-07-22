@@ -92,13 +92,15 @@ ___
 
 **[📰 Recent activity](https://github.com/Rooyca)**
 * ➡️ Pushed 1 commit in [Rooyca/twitter-news](https://github.com/Rooyca/twitter-news) on branch `main`
-  * [#8efbe9f](https://github.com/Rooyca/twitter-news/commit/8efbe9f) Update main.yml
-* ⏺️ Created new tag Monitoring in [Rooyca/url-check-with-AUTH](https://github.com/Rooyca/url-check-with-AUTH)
-* 📦 Released **url request with auth** of [Rooyca/url-check-with-AUTH](https://github.com/Rooyca/url-check-with-AUTH)
+  * [#5547f4c](https://github.com/Rooyca/twitter-news/commit/5547f4c) Update main.yml
+* ➡️ Pushed 1 commit in [Rooyca/twitter-news](https://github.com/Rooyca/twitter-news) on branch `main`
+  * [#50feb25](https://github.com/Rooyca/twitter-news/commit/50feb25) Update main.yml
+* ➡️ Pushed 1 commit in [Rooyca/twitter-news](https://github.com/Rooyca/twitter-news) on branch `main`
+  * [#d0a816e](https://github.com/Rooyca/twitter-news/commit/d0a816e) Update main.yml
 * ➡️ Pushed 1 commit in [Rooyca/url-check-with-AUTH](https://github.com/Rooyca/url-check-with-AUTH) on branch `master`
-  * [#f7179d3](https://github.com/Rooyca/url-check-with-AUTH/commit/f7179d3) Update action.yml
-* ➡️ Pushed 1 commit in [Rooyca/url-check-with-AUTH](https://github.com/Rooyca/url-check-with-AUTH) on branch `master`
-  * [#4281bc2](https://github.com/Rooyca/url-check-with-AUTH/commit/4281bc2) Update action.yml
+  * [#273a75c](https://github.com/Rooyca/url-check-with-AUTH/commit/273a75c) Action updata
+* ➡️ Pushed 1 commit in [Rooyca/twitter-news](https://github.com/Rooyca/twitter-news) on branch `main`
+  * [#6ff0852](https://github.com/Rooyca/twitter-news/commit/6ff0852) Update main.yml
 
  
 ___
@@ -106,11 +108,11 @@ ___
     
 ### :writing_hand: Latest Blog Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
-- [Enviar correos desde Gmail usando tu propio dominio](https://dev.to/rooyca/enviar-correos-desde-gmail-usando-tu-propio-dominio-599)
 - [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://dev.to/rooyca/alojar-wordpress-en-la-nube-google-cloud-29gi)
 - [Hacer Deploy de FastAPI y Celery &lpar;con RabbitMQ y PostgreSQL&rpar; en Heroku](https://dev.to/rooyca/hacer-deploy-de-fastapi-y-celery-con-rabbitmq-y-postgresql-en-heroku-1d9k)
 - [Como extraer la obra completa de Shakespeare de una Imagen](https://dev.to/rooyca/como-extraer-la-obra-completa-de-shakespeare-de-una-imagen-4gn5)
 - [Una guía para compartir archivos en la Blockchain con IPFS](https://dev.to/rooyca/una-guia-para-compartir-archivos-en-la-blockchain-con-ipfs-2j28)
+- [Crea tu primera API con FLASK](https://dev.to/rooyca/crea-tu-primera-api-con-flask-1ej4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
