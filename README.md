@@ -91,6 +91,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/Rooyca)**
+* ⏺️ Created new branch v2 in [Rooyca/Finance-app](https://github.com/Rooyca/Finance-app)
 * ➡️ Pushed 1 commit in [Rooyca/PDF-Vision](https://github.com/Rooyca/PDF-Vision) on branch `main`
   * [#e19ef52](https://github.com/Rooyca/PDF-Vision/commit/e19ef52) Update README.md
 * ➡️ Pushed 1 commit in [Rooyca/PDF-Vision](https://github.com/Rooyca/PDF-Vision) on branch `main`
@@ -98,8 +99,6 @@ ___
 * 🌟 Starred [Rooyca/PDF-Vision](https://github.com/Rooyca/PDF-Vision)
 * ➡️ Pushed 1 commit in [Rooyca/Finance-app](https://github.com/Rooyca/Finance-app) on branch `main`
   * [#75bc280](https://github.com/Rooyca/Finance-app/commit/75bc280) Heroku update
-* ➡️ Pushed 1 commit in [Rooyca/twitter-news](https://github.com/Rooyca/twitter-news) on branch `main`
-  * [#e4664de](https://github.com/Rooyca/twitter-news/commit/e4664de) Update main.yml
 
  
 ___
@@ -107,11 +106,11 @@ ___
     
 ### :writing_hand: Latest Blog Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
-- [Enviar correos desde Gmail usando tu propio dominio](https://dev.to/rooyca/enviar-correos-desde-gmail-usando-tu-propio-dominio-599)
 - [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://dev.to/rooyca/alojar-wordpress-en-la-nube-google-cloud-29gi)
 - [Hacer Deploy de FastAPI y Celery &lpar;con RabbitMQ y PostgreSQL&rpar; en Heroku](https://dev.to/rooyca/hacer-deploy-de-fastapi-y-celery-con-rabbitmq-y-postgresql-en-heroku-1d9k)
 - [Como extraer la obra completa de Shakespeare de una Imagen](https://dev.to/rooyca/como-extraer-la-obra-completa-de-shakespeare-de-una-imagen-4gn5)
 - [Una guía para compartir archivos en la Blockchain con IPFS](https://dev.to/rooyca/una-guia-para-compartir-archivos-en-la-blockchain-con-ipfs-2j28)
+- [Crea tu primera API con FLASK](https://dev.to/rooyca/crea-tu-primera-api-con-flask-1ej4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
