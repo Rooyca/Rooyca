@@ -92,12 +92,13 @@ ___
 
 **[📰 Recent activity](https://github.com/Rooyca)**
 * ➡️ Pushed 1 commit in [Rooyca/RooycaGo](https://github.com/Rooyca/RooycaGo) on branch `master`
+  * [#bdf0ebe](https://github.com/Rooyca/RooycaGo/commit/bdf0ebe) Update Dockerfile
+* ➡️ Pushed 1 commit in [Rooyca/RooycaGo](https://github.com/Rooyca/RooycaGo) on branch `master`
+  * [#fd493bb](https://github.com/Rooyca/RooycaGo/commit/fd493bb) Update Dockerfile
+* ➡️ Pushed 1 commit in [Rooyca/RooycaGo](https://github.com/Rooyca/RooycaGo) on branch `master`
   * [#18bbcc5](https://github.com/Rooyca/RooycaGo/commit/18bbcc5) Adding workflow file
 * ⏺️ Created new branch master in [Rooyca/RooycaGo](https://github.com/Rooyca/RooycaGo)
 * ⏺️ Created new repository  [Rooyca/RooycaGo](https://github.com/Rooyca/RooycaGo)
-* ➡️ Pushed 1 commit in [Rooyca/Finance-app](https://github.com/Rooyca/Finance-app) on branch `v2`
-  * [#9b1a2fe](https://github.com/Rooyca/Finance-app/commit/9b1a2fe) Up
-* #️⃣ Opened [#1 Update db](https://github.com/Rooyca/Finance-app/issues/1) in [Rooyca/Finance-app](https://github.com/Rooyca/Finance-app)
 
  
 ___
@@ -105,11 +106,11 @@ ___
     
 ### :writing_hand: Latest Blog Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
-- [Enviar correos desde Gmail usando tu propio dominio](https://dev.to/rooyca/enviar-correos-desde-gmail-usando-tu-propio-dominio-599)
 - [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://dev.to/rooyca/alojar-wordpress-en-la-nube-google-cloud-29gi)
 - [Hacer Deploy de FastAPI y Celery &lpar;con RabbitMQ y PostgreSQL&rpar; en Heroku](https://dev.to/rooyca/hacer-deploy-de-fastapi-y-celery-con-rabbitmq-y-postgresql-en-heroku-1d9k)
 - [Como extraer la obra completa de Shakespeare de una Imagen](https://dev.to/rooyca/como-extraer-la-obra-completa-de-shakespeare-de-una-imagen-4gn5)
 - [Una guía para compartir archivos en la Blockchain con IPFS](https://dev.to/rooyca/una-guia-para-compartir-archivos-en-la-blockchain-con-ipfs-2j28)
+- [Crea tu primera API con FLASK](https://dev.to/rooyca/crea-tu-primera-api-con-flask-1ej4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
