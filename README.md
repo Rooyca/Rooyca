@@ -92,6 +92,8 @@ ___
 
 **[📰 Recent activity](https://github.com/Rooyca)**
 * ➡️ Pushed 1 commit in [Rooyca/acd-portafolio](https://github.com/Rooyca/acd-portafolio) on branch `main`
+  * [#ac7304a](https://github.com/Rooyca/acd-portafolio/commit/ac7304a) FC
+* ➡️ Pushed 1 commit in [Rooyca/acd-portafolio](https://github.com/Rooyca/acd-portafolio) on branch `main`
   * [#b10d44d](https://github.com/Rooyca/acd-portafolio/commit/b10d44d) FC
 * ➡️ Pushed 1 commit in [Rooyca/acd-portafolio](https://github.com/Rooyca/acd-portafolio) on branch `main`
   * [#a4ed0db](https://github.com/Rooyca/acd-portafolio/commit/a4ed0db) FC
@@ -99,8 +101,6 @@ ___
   * [#8aedb61](https://github.com/Rooyca/acd-portafolio/commit/8aedb61) FC
 * ➡️ Pushed 1 commit in [Rooyca/acd-portafolio](https://github.com/Rooyca/acd-portafolio) on branch `main`
   * [#fda92e7](https://github.com/Rooyca/acd-portafolio/commit/fda92e7) FC
-* ➡️ Pushed 1 commit in [Rooyca/acd-portafolio](https://github.com/Rooyca/acd-portafolio) on branch `main`
-  * [#13bcaee](https://github.com/Rooyca/acd-portafolio/commit/13bcaee) FC
 
  
 ___
@@ -108,11 +108,11 @@ ___
     
 ### :writing_hand: Latest Blog Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
-- [Enviar correos desde Gmail usando tu propio dominio](https://dev.to/rooyca/enviar-correos-desde-gmail-usando-tu-propio-dominio-599)
 - [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://dev.to/rooyca/alojar-wordpress-en-la-nube-google-cloud-29gi)
 - [Hacer Deploy de FastAPI y Celery &lpar;con RabbitMQ y PostgreSQL&rpar; en Heroku](https://dev.to/rooyca/hacer-deploy-de-fastapi-y-celery-con-rabbitmq-y-postgresql-en-heroku-1d9k)
 - [Como extraer la obra completa de Shakespeare de una Imagen](https://dev.to/rooyca/como-extraer-la-obra-completa-de-shakespeare-de-una-imagen-4gn5)
 - [Una guía para compartir archivos en la Blockchain con IPFS](https://dev.to/rooyca/una-guia-para-compartir-archivos-en-la-blockchain-con-ipfs-2j28)
+- [Crea tu primera API con FLASK](https://dev.to/rooyca/crea-tu-primera-api-con-flask-1ej4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
