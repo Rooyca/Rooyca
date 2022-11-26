@@ -92,13 +92,14 @@ ___
 
 **[📰 Recent activity](https://github.com/Rooyca)**
 * ➡️ Pushed 1 commit in [Rooyca/mon](https://github.com/Rooyca/mon) on branch `main`
+  * [#084b412](https://github.com/Rooyca/mon/commit/084b412) 25-11-2022
+* ➡️ Pushed 1 commit in [Rooyca/mon](https://github.com/Rooyca/mon) on branch `main`
   * [#57fc08b](https://github.com/Rooyca/mon/commit/57fc08b) 25-11-2022
 * 🍽️ Forked [0xabu/pdfannots](https://github.com/0xabu/pdfannots) to [Rooyca/pdfannots](https://github.com/Rooyca/pdfannots)
 * ➡️ Pushed 1 commit in [Rooyca/mon](https://github.com/Rooyca/mon) on branch `main`
   * [#a1e615e](https://github.com/Rooyca/mon/commit/a1e615e) 23-11-2022
 * ➡️ Pushed 1 commit in [Rooyca/mon](https://github.com/Rooyca/mon) on branch `main`
   * [#0a036a6](https://github.com/Rooyca/mon/commit/0a036a6) 22-11-2022
-* ⏺️ Created new branch main in [Rooyca/mon](https://github.com/Rooyca/mon)
 
  
 ___
@@ -106,11 +107,11 @@ ___
     
 ### :writing_hand: Latest Blog Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
-- [PicoCTF Writeup – Reverse Engineering &lpar;asm2&rpar;](https://dev.to/rooyca/picoctf-writeup-reverse-engineering-asm2-1659)
-- [Enviar correos desde Gmail usando tu propio dominio](https://dev.to/rooyca/enviar-correos-desde-gmail-usando-tu-propio-dominio-599)
 - [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://dev.to/rooyca/alojar-wordpress-en-la-nube-google-cloud-29gi)
 - [Hacer Deploy de FastAPI y Celery &lpar;con RabbitMQ y PostgreSQL&rpar; en Heroku](https://dev.to/rooyca/hacer-deploy-de-fastapi-y-celery-con-rabbitmq-y-postgresql-en-heroku-1d9k)
 - [Como extraer la obra completa de Shakespeare de una Imagen](https://dev.to/rooyca/como-extraer-la-obra-completa-de-shakespeare-de-una-imagen-4gn5)
+- [Una guía para compartir archivos en la Blockchain con IPFS](https://dev.to/rooyca/una-guia-para-compartir-archivos-en-la-blockchain-con-ipfs-2j28)
+- [Crea tu primera API con FLASK](https://dev.to/rooyca/crea-tu-primera-api-con-flask-1ej4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
