@@ -91,6 +91,10 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/Rooyca)**
+* ➡️ Pushed 1 commit in [Rooyca/my_repo_prueba](https://github.com/Rooyca/my_repo_prueba) on branch `main`
+  * [#3b080e6](https://github.com/Rooyca/my_repo_prueba/commit/3b080e6) Diff
+* ⏺️ Created new branch main in [Rooyca/my_repo_prueba](https://github.com/Rooyca/my_repo_prueba)
+* ⏺️ Created new repository  [Rooyca/my_repo_prueba](https://github.com/Rooyca/my_repo_prueba)
 * ➡️ Pushed 422 commits in [Rooyca/awesome-selfhosted](https://github.com/Rooyca/awesome-selfhosted) on branch `master`
   * [#a1470c0](https://github.com/Rooyca/awesome-selfhosted/commit/a1470c0) RM Uier - LC 2019
   * [#c41a621](https://github.com/Rooyca/awesome-selfhosted/commit/c41a621) Moved tooljet
@@ -120,16 +124,6 @@ Added main site
   * [#3f6b79b](https://github.com/Rooyca/awesome-selfhosted/commit/3f6b79b) RM Budgetapp - LC 2020
   * [#3853c60](https://github.com/Rooyca/awesome-selfhosted/commit/3853c60) add mkhost
 * ⏺️ Created new branch master in [Rooyca/gpvr](https://github.com/Rooyca/gpvr)
-* ⏺️ Created new repository  [Rooyca/gpvr](https://github.com/Rooyca/gpvr)
-* ➡️ Pushed 1 commit in [Rooyca/gpvr](https://github.com/Rooyca/gpvr) on branch `master`
-  * [#5a06688](https://github.com/Rooyca/gpvr/commit/5a06688) Remove algo from store.
-* ➡️ Pushed 6 commits in [Rooyca/gpvr](https://github.com/Rooyca/gpvr) on branch `master`
-  * [#255844d](https://github.com/Rooyca/gpvr/commit/255844d) Save secret to algo: Inserted user supplied password
-  * [#bf41126](https://github.com/Rooyca/gpvr/commit/bf41126) Remove websites/gmail.com/rooyca from store.
-  * [#72aad1d](https://github.com/Rooyca/gpvr/commit/72aad1d) Remove websites/alar/rame from store.
-  * [#e3fead6](https://github.com/Rooyca/gpvr/commit/e3fead6) Save secret to websites/alar/rame: Created new entry
-  * [#1bf5f4a](https://github.com/Rooyca/gpvr/commit/1bf5f4a) Save secret to websites/gmail.com/rooyca: Created new entry
-  * [#d924de6](https://github.com/Rooyca/gpvr/commit/d924de6) Added default wizard templates
 
  
 ___
@@ -137,11 +131,11 @@ ___
     
 ### :writing_hand: Latest Blog Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
-- [Creando un acortador de enlaces en 12 lineas de código usando Cloudflare Workers + Bonus](https://dev.to/rooyca/creando-un-acortador-de-enlaces-en-12-lineas-de-codigo-usando-cloudflare-workers-bonus-40k1)
-- [PicoCTF Writeup – Reverse Engineering &lpar;asm2&rpar;](https://dev.to/rooyca/picoctf-writeup-reverse-engineering-asm2-1659)
-- [Enviar correos desde Gmail usando tu propio dominio](https://dev.to/rooyca/enviar-correos-desde-gmail-usando-tu-propio-dominio-599)
 - [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://dev.to/rooyca/alojar-wordpress-en-la-nube-google-cloud-29gi)
 - [Hacer Deploy de FastAPI y Celery &lpar;con RabbitMQ y PostgreSQL&rpar; en Heroku](https://dev.to/rooyca/hacer-deploy-de-fastapi-y-celery-con-rabbitmq-y-postgresql-en-heroku-1d9k)
+- [Como extraer la obra completa de Shakespeare de una Imagen](https://dev.to/rooyca/como-extraer-la-obra-completa-de-shakespeare-de-una-imagen-4gn5)
+- [Una guía para compartir archivos en la Blockchain con IPFS](https://dev.to/rooyca/una-guia-para-compartir-archivos-en-la-blockchain-con-ipfs-2j28)
+- [Crea tu primera API con FLASK](https://dev.to/rooyca/crea-tu-primera-api-con-flask-1ej4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
