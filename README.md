@@ -91,17 +91,13 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/Rooyca)**
+* ➡️ Pushed 1 commit in [Rooyca/ronaldc](https://github.com/Rooyca/ronaldc) on branch `main`
+  * [#0f4c246](https://github.com/Rooyca/ronaldc/commit/0f4c246) Update CNAME
+* ➡️ Pushed 1 commit in [Rooyca/ronaldc](https://github.com/Rooyca/ronaldc) on branch `main`
+  * [#ebf9869](https://github.com/Rooyca/ronaldc/commit/ebf9869) Update CNAME
+* ⏺️ Created new branch master in [Rooyca/ObsidianVaultPlugin](https://github.com/Rooyca/ObsidianVaultPlugin)
+* ⏺️ Created new repository  [Rooyca/ObsidianVaultPlugin](https://github.com/Rooyca/ObsidianVaultPlugin)
 * 🌟 Starred [hu3rror/memos-on-fly](https://github.com/hu3rror/memos-on-fly)
-* ⏺️ Created new branch master in [Rooyca/ObsidianVault](https://github.com/Rooyca/ObsidianVault)
-* ⏺️ Created new repository  [Rooyca/ObsidianVault](https://github.com/Rooyca/ObsidianVault)
-* 🌟 Starred [livebook-dev/livebook](https://github.com/livebook-dev/livebook)
-* ➡️ Pushed 6 commits in [Rooyca/gpvr](https://github.com/Rooyca/gpvr) on branch `master`
-  * [#6183fc2](https://github.com/Rooyca/gpvr/commit/6183fc2) Save secret to websites/proton.me/vituperium: Created new entry
-  * [#215c997](https://github.com/Rooyca/gpvr/commit/215c997) Save secret to websites/linode.PortainerVM.root/root: Created new entry
-  * [#2b0bed3](https://github.com/Rooyca/gpvr/commit/2b0bed3) Save secret to websites/45.33.90.199/rooyca: Created new entry
-  * [#d916327](https://github.com/Rooyca/gpvr/commit/d916327) Save secret to rooyk: Generated Password
-  * [#d779587](https://github.com/Rooyca/gpvr/commit/d779587) Save secret to websites/portainerVM.linodde/kronoz: Created new entry
-  * [#ec04110](https://github.com/Rooyca/gpvr/commit/ec04110) Added default wizard templates
 
  
 ___
@@ -109,11 +105,11 @@ ___
     
 ### :writing_hand: Latest Blog Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
-- [Creando un acortador de enlaces en 12 lineas de código usando Cloudflare Workers + Bonus](https://dev.to/rooyca/creando-un-acortador-de-enlaces-en-12-lineas-de-codigo-usando-cloudflare-workers-bonus-40k1)
-- [PicoCTF Writeup – Reverse Engineering &lpar;asm2&rpar;](https://dev.to/rooyca/picoctf-writeup-reverse-engineering-asm2-1659)
-- [Enviar correos desde Gmail usando tu propio dominio](https://dev.to/rooyca/enviar-correos-desde-gmail-usando-tu-propio-dominio-599)
 - [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://dev.to/rooyca/alojar-wordpress-en-la-nube-google-cloud-29gi)
 - [Hacer Deploy de FastAPI y Celery &lpar;con RabbitMQ y PostgreSQL&rpar; en Heroku](https://dev.to/rooyca/hacer-deploy-de-fastapi-y-celery-con-rabbitmq-y-postgresql-en-heroku-1d9k)
+- [Como extraer la obra completa de Shakespeare de una Imagen](https://dev.to/rooyca/como-extraer-la-obra-completa-de-shakespeare-de-una-imagen-4gn5)
+- [Una guía para compartir archivos en la Blockchain con IPFS](https://dev.to/rooyca/una-guia-para-compartir-archivos-en-la-blockchain-con-ipfs-2j28)
+- [Crea tu primera API con FLASK](https://dev.to/rooyca/crea-tu-primera-api-con-flask-1ej4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
