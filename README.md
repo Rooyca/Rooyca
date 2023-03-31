@@ -91,16 +91,68 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/Rooyca)**
+* ➡️ Pushed 16 commits in [Rooyca/api-development-tools](https://github.com/Rooyca/api-development-tools) on branch `master`
+  * [#e1cea9c](https://github.com/Rooyca/api-development-tools/commit/e1cea9c) add optic tooling (#91)
+
+* add optic tooling
+
+* Update README.md
+  * [#73cfef1](https://github.com/Rooyca/api-development-tools/commit/73cfef1) suggest at-your-service (#92)
+
+* suggest at-your-service
+
+* move to bottom
+  * [#823bba4](https://github.com/Rooyca/api-development-tools/commit/823bba4) add Svix Play under API debugging (#89)
+  * [#daec829](https://github.com/Rooyca/api-development-tools/commit/daec829) add httpy to API Clients (#85)
+  * [#fa1b059](https://github.com/Rooyca/api-development-tools/commit/fa1b059) Added DeveloperHub to API Documentation (#84)
+  * [#e57a02b](https://github.com/Rooyca/api-development-tools/commit/e57a02b) Adding RestQA (#87)
+  * [#3f8f934](https://github.com/Rooyca/api-development-tools/commit/3f8f934) Add few Dart backend tools (#86)
+
+I&#39;ve added some of the most famous backend framework on the Dart ecosystem
+  * [#88feb8a](https://github.com/Rooyca/api-development-tools/commit/88feb8a) Added R&#39;s plumber API Framework (#83)
+
+Co-authored-by: Yos Riady &lt;yosriady@gmail.com&gt;
+  * [#9fae5cd](https://github.com/Rooyca/api-development-tools/commit/9fae5cd) added C# section (#80)
+
+* Update README.md
+
+added .C# .Net 6
+
+* Update README.md
+
+Co-authored-by: Yos Riady &lt;yosriady@gmail.com&gt;
+  * [#63b9833](https://github.com/Rooyca/api-development-tools/commit/63b9833) added mockingcloud (#78)
+  * [#a7ee7cd](https://github.com/Rooyca/api-development-tools/commit/a7ee7cd) Adding Spectral, Prism, Elements (#77)
+
+Stoplight&#39;s open source projects seemed to be missing!
+  * [#fff4219](https://github.com/Rooyca/api-development-tools/commit/fff4219) Add Hoppscotch (#76)
+
+* Add Hoppscotch
+
+* Update README.md
+
+Co-authored-by: Yos Riady &lt;yosriady@gmail.com&gt;
+  * [#bc0a69e](https://github.com/Rooyca/api-development-tools/commit/bc0a69e) Prune old links
+  * [#146592c](https://github.com/Rooyca/api-development-tools/commit/146592c) Updated with new category and Cherrybomb (#75)
+
+Added a n ew category - API Web Scanners.
+Added Cherrybomb into that category.
+Reference - https://github.com/psiinon/open-source-web-scanners
+  * [#a23d038](https://github.com/Rooyca/api-development-tools/commit/a23d038) Added Testing Web APIs to Learning Resources (#73)
+
+Hi,
+
+Stjepan from Manning here. I thought this title might be a good match for your list. Thank you for considering it.
+
+Best,
+  * [#d31fe0c](https://github.com/Rooyca/api-development-tools/commit/d31fe0c) Update README.md (#70)
+* ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
+  * [#224bc16](https://github.com/Rooyca/Rooyca/commit/224bc16) Update Metrics.yml
+* ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
+  * [#8e98d6f](https://github.com/Rooyca/Rooyca/commit/8e98d6f) Update blog-post-workflow.yml
 * 💬 Commented on [#84 🚀 Feature: localization](https://github.com/stonith404/pingvin-share/issues/84) from [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share)
 * ➡️ Pushed 1 commit in [Rooyca/ObsiEnc](https://github.com/Rooyca/ObsiEnc) on branch `main`
   * [#48b9112](https://github.com/Rooyca/ObsiEnc/commit/48b9112) Update README.md
-* ⏺️ Created new branch main in [Rooyca/ObsiEnc](https://github.com/Rooyca/ObsiEnc)
-* ⏺️ Created new repository  [Rooyca/ObsiEnc](https://github.com/Rooyca/ObsiEnc)
-* ➡️ Pushed 4 commits in [Rooyca/test](https://github.com/Rooyca/test) on branch `master`
-  * [#dd29fc9](https://github.com/Rooyca/test/commit/dd29fc9) 2023-03-30
-  * [#4f49205](https://github.com/Rooyca/test/commit/4f49205) 2023-03-30
-  * [#f41cacb](https://github.com/Rooyca/test/commit/f41cacb) 2023-03-30
-  * [#cf35398](https://github.com/Rooyca/test/commit/cf35398) 2023-03-30
 
  
 ___
@@ -108,11 +160,11 @@ ___
     
 ### :writing_hand: Latest Blog Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
-- [Creando un acortador de enlaces en 12 lineas de código usando Cloudflare Workers + Bonus](https://dev.to/rooyca/creando-un-acortador-de-enlaces-en-12-lineas-de-codigo-usando-cloudflare-workers-bonus-40k1)
-- [PicoCTF Writeup – Reverse Engineering &lpar;asm2&rpar;](https://dev.to/rooyca/picoctf-writeup-reverse-engineering-asm2-1659)
-- [Enviar correos desde Gmail usando tu propio dominio](https://dev.to/rooyca/enviar-correos-desde-gmail-usando-tu-propio-dominio-599)
 - [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://dev.to/rooyca/alojar-wordpress-en-la-nube-google-cloud-29gi)
 - [Hacer Deploy de FastAPI y Celery &lpar;con RabbitMQ y PostgreSQL&rpar; en Heroku](https://dev.to/rooyca/hacer-deploy-de-fastapi-y-celery-con-rabbitmq-y-postgresql-en-heroku-1d9k)
+- [Como extraer la obra completa de Shakespeare de una Imagen](https://dev.to/rooyca/como-extraer-la-obra-completa-de-shakespeare-de-una-imagen-4gn5)
+- [Una guía para compartir archivos en la Blockchain con IPFS](https://dev.to/rooyca/una-guia-para-compartir-archivos-en-la-blockchain-con-ipfs-2j28)
+- [Crea tu primera API con FLASK](https://dev.to/rooyca/crea-tu-primera-api-con-flask-1ej4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
