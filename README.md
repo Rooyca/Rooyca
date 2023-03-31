@@ -91,6 +91,7 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/Rooyca)**
+* 💬 Commented on [#84 🚀 Feature: localization](https://github.com/stonith404/pingvin-share/issues/84) from [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share)
 * ➡️ Pushed 1 commit in [Rooyca/ObsiEnc](https://github.com/Rooyca/ObsiEnc) on branch `main`
   * [#48b9112](https://github.com/Rooyca/ObsiEnc/commit/48b9112) Update README.md
 * ⏺️ Created new branch main in [Rooyca/ObsiEnc](https://github.com/Rooyca/ObsiEnc)
@@ -100,7 +101,6 @@ ___
   * [#4f49205](https://github.com/Rooyca/test/commit/4f49205) 2023-03-30
   * [#f41cacb](https://github.com/Rooyca/test/commit/f41cacb) 2023-03-30
   * [#cf35398](https://github.com/Rooyca/test/commit/cf35398) 2023-03-30
-* ⏺️ Created new branch master in [Rooyca/test](https://github.com/Rooyca/test)
 
  
 ___
@@ -108,11 +108,11 @@ ___
     
 ### :writing_hand: Latest Blog Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
-- [Creando un acortador de enlaces en 12 lineas de código usando Cloudflare Workers + Bonus](https://dev.to/rooyca/creando-un-acortador-de-enlaces-en-12-lineas-de-codigo-usando-cloudflare-workers-bonus-40k1)
-- [PicoCTF Writeup – Reverse Engineering &lpar;asm2&rpar;](https://dev.to/rooyca/picoctf-writeup-reverse-engineering-asm2-1659)
-- [Enviar correos desde Gmail usando tu propio dominio](https://dev.to/rooyca/enviar-correos-desde-gmail-usando-tu-propio-dominio-599)
 - [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://dev.to/rooyca/alojar-wordpress-en-la-nube-google-cloud-29gi)
 - [Hacer Deploy de FastAPI y Celery &lpar;con RabbitMQ y PostgreSQL&rpar; en Heroku](https://dev.to/rooyca/hacer-deploy-de-fastapi-y-celery-con-rabbitmq-y-postgresql-en-heroku-1d9k)
+- [Como extraer la obra completa de Shakespeare de una Imagen](https://dev.to/rooyca/como-extraer-la-obra-completa-de-shakespeare-de-una-imagen-4gn5)
+- [Una guía para compartir archivos en la Blockchain con IPFS](https://dev.to/rooyca/una-guia-para-compartir-archivos-en-la-blockchain-con-ipfs-2j28)
+- [Crea tu primera API con FLASK](https://dev.to/rooyca/crea-tu-primera-api-con-flask-1ej4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
