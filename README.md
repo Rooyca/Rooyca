@@ -97,13 +97,14 @@ ___
 
 **[📰 Recent activity](https://github.com/Rooyca)**
 * ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
+  * [#758115b](https://github.com/Rooyca/Rooyca/commit/758115b) Update Post
+* ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
   * [#374786b](https://github.com/Rooyca/Rooyca/commit/374786b) update rss feed
 * ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
   * [#a1eb9f4](https://github.com/Rooyca/Rooyca/commit/a1eb9f4) update
 * 🌟 Starred [TerminalFi/LSP-copilot](https://github.com/TerminalFi/LSP-copilot)
 * ➡️ Pushed 1 commit in [Rooyca/es](https://github.com/Rooyca/es) on branch `master`
   * [#61bba37](https://github.com/Rooyca/es/commit/61bba37) 01-04-2023
-* 💬 Commented on [#138 doc: add Spanish version of README and CONTRIBUTING](https://github.com/stonith404/pingvin-share/issues/138) from [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share)
 
  
 ___
@@ -112,11 +113,7 @@ ___
     
 ### :writing_hand: Latest Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
-- [Lo Apolíneo y lo Dionisíaco en Nietzsche](https://rooyca.github.io/es/articles/apolinio_dionisiaco_nietzsche/)
-- [Creando un acortador de enlaces en 12 lineas de código usando Cloudflare Workers + Bonus](https://rooyca.github.io/es/articles/cloudflare_url_shortener/)
-- [PicoCTF Writeup – Reverse Engineering &lpar;asm2&rpar;](https://rooyca.github.io/es/articles/picoctf_asm2/)
-- [Enviar correos desde Gmail usando tu propio dominio](https://rooyca.github.io/es/articles/correos_desde_gmail_con_dominio_propio/)
-- [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://rooyca.github.io/es/articles/wordpress_cloud/)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
