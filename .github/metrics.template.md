@@ -87,16 +87,12 @@
     
 ___
 
-<%- await embed(`languages`, {languages:true, languages_details:"percentage, bytes-size", config_display:"large"}) %>
-
+![IMG](https://github-readme-stats.vercel.app/api?username=rooyca&show_icons=true&theme=gruvbox)
+    
 ___
 
-<%- await embed(`achievements`, { achievements: true, achievements_secrets: true, achievements_threshold: "C" }) %>
-
-___
-
-<%- await include(`partials/activity.ejs`) %>
- 
+![IMD](https://github-readme-stats.vercel.app/api/top-langs/?username=rooyca&hide_progress=true&theme=gruvbox)
+    
 ___
     
 </details>
