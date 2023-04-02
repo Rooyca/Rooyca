@@ -113,7 +113,11 @@ ___
     
 ### :writing_hand: Latest Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
-
+- [Lo Apolíneo y lo Dionisíaco en Nietzsche](https://rooyca.github.io/es/articles/apolinio_dionisiaco_nietzsche/)
+- [Creando un acortador de enlaces en 12 lineas de código usando Cloudflare Workers + Bonus](https://rooyca.github.io/es/articles/cloudflare_url_shortener/)
+- [PicoCTF Writeup – Reverse Engineering &lpar;asm2&rpar;](https://rooyca.github.io/es/articles/picoctf_asm2/)
+- [Enviar correos desde Gmail usando tu propio dominio](https://rooyca.github.io/es/articles/correos_desde_gmail_con_dominio_propio/)
+- [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://rooyca.github.io/es/articles/wordpress_cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
