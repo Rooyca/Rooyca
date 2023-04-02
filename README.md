@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Hi, my name is Rooyca 👋</h1>
+    <h1 align="center">Hello, my name is Ronald a.k.a Rooyca 👋</h1>
 </p>
 
 <div id="header" align="center">
@@ -11,8 +11,8 @@
     <a href="https://www.reddit.com/user/r0yca" target="_blank">
       <img src="https://img.shields.io/badge/Reddit-blue?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
     </a>
-    <a href="https://twitter.com/rooycaa" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://mas.to/@rooyca" target="_blank">
+      <img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
     </a>
     <a href="https://t.me/seiseiseis" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -26,22 +26,22 @@
   <img src="https://img.shields.io/badge/Spanish-blue" alt="Spanish">
 </a>
 <a href="./README.md">
-  <img src="https://img.shields.io/badge/English-blue" alt="Spanish">
+  <img src="https://img.shields.io/badge/English-blue" alt="English">
 </a>
   
-### :woman_technologist: About Me 
-Full Stack Developer from Colombia.
-- :telescope: Currently studying Linguistics at the Universidad Nacional de Colombia and learning Web Development by my own.
-
-- :seedling: Apacionate about learning new things everyday.
-
-- :zap: In my free time I watch movies, read and lisen to music... so much music.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rooyca-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-cantillo-calderon-698bba1b9/)
+### 👨‍💻 About Me 
+- **Geek** ~in all the meaning of the word~
+- Pasionate about phenomenology and ethic
+- Studying Linguistics at the Universidad Nacional de Colombia
+- I love music so much. Like Nietzsche said: "Without music, life would be a mistake".
 
 ---
 
-### :hammer_and_wrench: Languages and Tools 
+<details>
+    <summary><h3>:hammer_and_wrench:  Languages and Tools</h3> </summary>
+   
+   <p></p>
+    
 <div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
@@ -50,10 +50,10 @@ Full Stack Developer from Colombia.
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi" alt="FastApi" width="40" height="40"/>&nbsp;
   </div>
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="40" height="30"/>&nbsp;
     </div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-plain-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
@@ -70,16 +70,21 @@ Full Stack Developer from Colombia.
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure"  alt="Azure" width="40" height="20"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flas" width="40" height="30"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="40" height="30"/>&nbsp;
+   
 </div>
-
+    
+</details>
+    
 ---
+    
 
-### :fire: My Stats 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rooyca&theme=onedark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<h3>:fire: My Stats </h3>
+    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rooyca&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
-
-
+<details>
+    <summary><h3> 🔎  More...</h3> </summary>
+    
 ___
 
 <img src="https://github.com/Rooyca/Rooyca/blob/main/.cache/languages.svg">
@@ -91,26 +96,27 @@ ___
 ___
 
 **[📰 Recent activity](https://github.com/Rooyca)**
-* ⏺️ Created new branch master in [Rooyca/Configuracion-de-obsidian](https://github.com/Rooyca/Configuracion-de-obsidian)
-* ⏺️ Created new repository  [Rooyca/Configuracion-de-obsidian](https://github.com/Rooyca/Configuracion-de-obsidian)
+* ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
+  * [#374786b](https://github.com/Rooyca/Rooyca/commit/374786b) update rss feed
+* ➡️ Pushed 1 commit in [Rooyca/Rooyca](https://github.com/Rooyca/Rooyca) on branch `main`
+  * [#a1eb9f4](https://github.com/Rooyca/Rooyca/commit/a1eb9f4) update
+* 🌟 Starred [TerminalFi/LSP-copilot](https://github.com/TerminalFi/LSP-copilot)
 * ➡️ Pushed 1 commit in [Rooyca/es](https://github.com/Rooyca/es) on branch `master`
-  * [#99fb929](https://github.com/Rooyca/es/commit/99fb929) 01-04-2023
-* ➡️ Pushed 1 commit in [Rooyca/es](https://github.com/Rooyca/es) on branch `master`
-  * [#e70cc41](https://github.com/Rooyca/es/commit/e70cc41) 01-04-2023
-* 🔃 Opened [#138 doc: add Spanish version of README and CONTRIBUTING](https://github.com/stonith404/pingvin-share/pull/138) in [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share)
-  * 4 files changed `++234 --0`
+  * [#61bba37](https://github.com/Rooyca/es/commit/61bba37) 01-04-2023
+* 💬 Commented on [#138 doc: add Spanish version of README and CONTRIBUTING](https://github.com/stonith404/pingvin-share/issues/138) from [stonith404/pingvin-share](https://github.com/stonith404/pingvin-share)
 
  
 ___
-
     
-### :writing_hand: Latest Blog Posts (in spanish)
+</details>
+    
+### :writing_hand: Latest Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
-- [Lo Apolíneo y lo Dionisíaco en Nietzsche](https://rooyca.github.io/es/articles/apolinio_dionisiaco_nietzsche/)
-- [Creando un acortador de enlaces en 12 lineas de código usando Cloudflare Workers + Bonus](https://rooyca.github.io/es/articles/cloudflare_url_shortener/)
-- [PicoCTF Writeup – Reverse Engineering &lpar;asm2&rpar;](https://rooyca.github.io/es/articles/picoctf_asm2/)
-- [Enviar correos desde Gmail usando tu propio dominio](https://rooyca.github.io/es/articles/correos_desde_gmail_con_dominio_propio/)
-- [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://rooyca.github.io/es/articles/wordpress_cloud/)
+- [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://dev.to/rooyca/alojar-wordpress-en-la-nube-google-cloud-29gi)
+- [Hacer Deploy de FastAPI y Celery &lpar;con RabbitMQ y PostgreSQL&rpar; en Heroku](https://dev.to/rooyca/hacer-deploy-de-fastapi-y-celery-con-rabbitmq-y-postgresql-en-heroku-1d9k)
+- [Como extraer la obra completa de Shakespeare de una Imagen](https://dev.to/rooyca/como-extraer-la-obra-completa-de-shakespeare-de-una-imagen-4gn5)
+- [Una guía para compartir archivos en la Blockchain con IPFS](https://dev.to/rooyca/una-guia-para-compartir-archivos-en-la-blockchain-con-ipfs-2j28)
+- [Crea tu primera API con FLASK](https://dev.to/rooyca/crea-tu-primera-api-con-flask-1ej4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
