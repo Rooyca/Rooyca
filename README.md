@@ -99,11 +99,11 @@ ___
     
 ### :writing_hand: Latest Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
+- [Crear una estacion de radio online 100% Gratis - Radio Project &lpar;Parte 1&rpar;](https://rooyca.github.io/es/articles/radio_project_primera_parte/)
 - [Lo Apolíneo y lo Dionisíaco en Nietzsche](https://rooyca.github.io/es/articles/apolinio_dionisiaco_nietzsche/)
+- [VC - La Villa de la Cancion; Una radio para todxs](https://rooyca.github.io/es/projects/vc_radio/)
+- [Pingvin - Intercabio de archivos](https://rooyca.github.io/es/projects/pingvin/)
 - [Creando un acortador de enlaces en 12 lineas de código usando Cloudflare Workers + Bonus](https://rooyca.github.io/es/articles/cloudflare_url_shortener/)
-- [PicoCTF Writeup – Reverse Engineering &lpar;asm2&rpar;](https://rooyca.github.io/es/articles/picoctf_asm2/)
-- [Enviar correos desde Gmail usando tu propio dominio](https://rooyca.github.io/es/articles/correos_desde_gmail_con_dominio_propio/)
-- [Alojar Wordpress en la nube &lpar;Google Cloud&rpar;](https://rooyca.github.io/es/articles/wordpress_cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
