@@ -31,9 +31,9 @@
   
 ### 👨‍💻 About Me 
 - **Geek** ~in all the meaning of the word~
-- Pasionate about phenomenology and ethic
+- Pasionate about a lot of things (Linux, Networking, Servers, Self-hosting, Low-level programming, etc.)
 - Studying Linguistics at the Universidad Nacional de Colombia
-- I love music so much. Like Nietzsche said: "Without music, life would be a mistake".
+- I love music. "Without music, life would be a mistake". (Nietzsche)
 
 ---
 
