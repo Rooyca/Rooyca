@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Hello, my name is Ronald a.k.a Rooyca 👋</h1>
+    <h1 align="center">Hi, I'm Ronald a.k.a <i>rooyca</i> 👋</h1>
 </p>
 
 <div id="header" align="center">
@@ -32,8 +32,8 @@
 ### 👨‍💻 About Me 
 - **Geek** ~in all the meaning of the word~
 - Pasionate about a lot of things (Linux, Networking, Servers, Self-hosting, Low-level programming, etc.)
-- Studying Linguistics at the Universidad Nacional de Colombia
-- I love music. "Without music, life would be a mistake". (Nietzsche)
+- Studying `Systems` at SENA
+- I love music and reading
 
 ---
 
@@ -45,31 +45,28 @@
 <div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi" alt="FastApi" width="40" height="40"/>&nbsp;
   </div>
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="40" height="30"/>&nbsp;
     </div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-plain-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku"  alt="Heroku" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp;
   </div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
   <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure"  alt="Azure" width="40" height="20"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask"  alt="Flas" width="40" height="30"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="Ionic"  alt="Ionic" width="40" height="40"/>&nbsp;
    
 </div>
     
