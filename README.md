@@ -5,8 +5,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/ronald-cantillo-calderon-698bba1b9/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://keybase.io/rooyca" target="_blank">
+      <img src="https://img.shields.io/badge/Keybase-blue?style=for-the-badge&logo=keybase&logoColor=white" alt="Keybase Badge"/>
     </a>
     <a href="https://www.reddit.com/user/r0yca" target="_blank">
       <img src="https://img.shields.io/badge/Reddit-blue?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
@@ -16,6 +16,9 @@
     </a>
     <a href="https://t.me/seiseiseis" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/ronald-cantillo-calderon-698bba1b9/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Rooyca&style=flat-square&color=blue" alt=""/>
