@@ -102,11 +102,11 @@ ___
     
 ### :writing_hand: Latest Posts (in spanish)
 <!-- BLOG-POST-LIST:START -->
-- [Crear una estacion de radio online 100% Gratis - Radio Project &lpar;Parte 1&rpar;](https://rooyca.github.io/es/articles/radio_project_primera_parte/)
-- [Lo Apolíneo y lo Dionisíaco en Nietzsche](https://rooyca.github.io/es/articles/apolinio_dionisiaco_nietzsche/)
-- [VC - La Villa de la Cancion; Una radio para todxs](https://rooyca.github.io/es/projects/vc_radio/)
-- [Pingvin - Intercabio de archivos](https://rooyca.github.io/es/projects/pingvin/)
-- [Creando un acortador de enlaces en 12 lineas de código usando Cloudflare Workers + Bonus](https://rooyca.github.io/es/articles/cloudflare_url_shortener/)
+- [Subir archivos a Nextcloud desde la línea de comandos](https://b1f04584.blog-4tw.pages.dev/es/articulos/upload_files_nextcloud_cli/)
+- [Crea tu blog con HUGO y publicalo en Cloudflare Pages](https://b1f04584.blog-4tw.pages.dev/es/articulos/hugo_cloudflare_pages/)
+- [MarkUP - Comparte tu Markdow](https://b1f04584.blog-4tw.pages.dev/es/proyectos/markup/)
+- [rooykup-cli - Backups comprimidos y encriptados en la nube](https://b1f04584.blog-4tw.pages.dev/es/proyectos/rooykup/)
+- [Pi-hole para Android - [ROOT]](https://b1f04584.blog-4tw.pages.dev/es/articulos/pihole_android/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
