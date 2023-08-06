@@ -85,6 +85,8 @@
     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rooyca&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
+[![T](https://github-profile-trophy.vercel.app/?username=rooyca&theme=gruvbox&title=Stars,Commits,MultiLanguage,PR&no-frame=true&margin-w=11)]()
+
 <details>
     <summary><h3> 🔎  Más...</h3> </summary>
     
