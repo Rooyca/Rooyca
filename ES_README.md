@@ -104,11 +104,11 @@ ___
     
 ### :writing_hand: Últimas publicaciones
 <!-- BLOG-POST-LIST:START -->
-- [Subir archivos a Nextcloud desde la línea de comandos](https://b1f04584.blog-4tw.pages.dev/es/articulos/upload_files_nextcloud_cli/)
-- [Crea tu blog con HUGO y publicalo en Cloudflare Pages](https://b1f04584.blog-4tw.pages.dev/es/articulos/hugo_cloudflare_pages/)
-- [MarkUP - Comparte tu Markdow](https://b1f04584.blog-4tw.pages.dev/es/proyectos/markup/)
-- [rooykup-cli - Backups comprimidos y encriptados en la nube](https://b1f04584.blog-4tw.pages.dev/es/proyectos/rooykup/)
-- [Pi-hole para Android - [ROOT]](https://b1f04584.blog-4tw.pages.dev/es/articulos/pihole_android/)
+- [Guía para crear y publicar paquetes en PyPI](https://fd569001.blog-4tw.pages.dev/es/articulos/guia_build_package_python/)
+- [Guía para publicar paquetes en el repositorio de usuarios &lpar;AUR&rpar; de Arch](https://fd569001.blog-4tw.pages.dev/es/articulos/build_paquetes_archlinux/)
+- [Guía completa sobre Backups usando rooykup, rclone y github](https://fd569001.blog-4tw.pages.dev/es/articulos/guia_completa_backups/)
+- [Subir archivos a Nextcloud desde la línea de comandos](https://fd569001.blog-4tw.pages.dev/es/articulos/upload_files_nextcloud_cli/)
+- [Crea tu blog con HUGO y publicalo en Cloudflare Pages](https://fd569001.blog-4tw.pages.dev/es/articulos/hugo_cloudflare_pages/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
