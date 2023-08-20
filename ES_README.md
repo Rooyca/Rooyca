@@ -111,8 +111,4 @@ ___
 - [Crea tu blog con HUGO y publicalo en Cloudflare Pages](https://fd569001.blog-4tw.pages.dev/es/articulos/hugo_cloudflare_pages/)
 <!-- BLOG-POST-LIST:END -->
 
----
 
-<div id="header" align="center">
-    <div><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="27%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Rooyca/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="9%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Rooyca/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="9%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Rooyca/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="9%" alt="next" align="top" title="next profile"></a></div>
-</div>
