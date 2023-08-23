@@ -28,12 +28,6 @@
 </div>
 
 ---
-<a href="./ES_README.md">
-  <img src="https://img.shields.io/badge/Spanish-blue" alt="Spanish">
-</a>
-<a href="./README.md">
-  <img src="https://img.shields.io/badge/English-blue" alt="English">
-</a>
   
 ### 👨‍💻 About Me 
 - Studying `Systems` at SENA
