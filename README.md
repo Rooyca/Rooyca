@@ -29,16 +29,13 @@
 
 ---
   
-### 👨‍💻 About Me 
-- Studying `Systems` at SENA
-- Linux lover
-
----
 
 <details>
-    <summary><h3>:hammer_and_wrench:  Languages and Tools</h3> </summary>
+    <summary><h3>🔽 Things 🔽 </h3> </summary>
    
    <p></p>
+
+<h3>⚒️  Tools </h3>
     
 <div>
   <div>
@@ -64,12 +61,10 @@
    
 </div>
     
-</details>
-    
 ---
     
 
-<h3>:fire: My Stats </h3>
+<h3>🔥 Stats </h3>
     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rooyca&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
@@ -78,8 +73,9 @@
 
 ---
 
+</details>
 
-### :writing_hand: Latest Posts (in spanish)
+### :writing_hand: BLOG (Spanish)
 <!-- BLOG-POST-LIST:START -->
 - [Guía para crear y publicar paquetes en PyPI](https://fd569001.blog-4tw.pages.dev/es/articulos/guia_build_package_python/)
 - [Guía para publicar paquetes en el repositorio de usuarios &lpar;AUR&rpar; de Arch](https://fd569001.blog-4tw.pages.dev/es/articulos/build_paquetes_archlinux/)
