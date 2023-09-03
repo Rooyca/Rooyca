@@ -28,15 +28,9 @@
 </div>
 
 ---
-  
 
-<details>
-    <summary><h3>🔽 Things 🔽 </h3> </summary>
-   
-   <p></p>
-
-<h3>⚒️  Tools </h3>
-    
+<h2>⚒️  Tools ⚒️</h2>
+<br/>
 <div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
@@ -64,24 +58,8 @@
 ---
     
 
-<h3>🔥 Stats </h3>
+<h2>🔥 Stats 🔥</h2>
     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rooyca&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 ![IMG](https://github-readme-stats.vercel.app/api?username=rooyca&show_icons=true&theme=gruvbox)
-
-
----
-
-</details>
-
-### :writing_hand: BLOG (Spanish)
-<!-- BLOG-POST-LIST:START -->
-- [Guía para crear y publicar paquetes en PyPI](https://fd569001.blog-4tw.pages.dev/es/articulos/guia_build_package_python/)
-- [Guía para publicar paquetes en el repositorio de usuarios &lpar;AUR&rpar; de Arch](https://fd569001.blog-4tw.pages.dev/es/articulos/build_paquetes_archlinux/)
-- [Guía completa sobre Backups usando rooykup, rclone y github](https://fd569001.blog-4tw.pages.dev/es/articulos/guia_completa_backups/)
-- [Subir archivos a Nextcloud desde la línea de comandos](https://fd569001.blog-4tw.pages.dev/es/articulos/upload_files_nextcloud_cli/)
-- [Crea tu blog con HUGO y publicalo en Cloudflare Pages](https://fd569001.blog-4tw.pages.dev/es/articulos/hugo_cloudflare_pages/)
-<!-- BLOG-POST-LIST:END -->
-
-
