@@ -29,7 +29,6 @@
 
 ---
 
-<h2>⚒️  Tools ⚒️</h2>
 <br/>
 <div>
   <div>
@@ -57,9 +56,4 @@
     
 ---
     
-
-<h2>🔥 Stats 🔥</h2>
-    
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rooyca&theme=onedark&hide_border=true)](https://git.io/streak-stats)
-
 ![IMG](https://github-readme-stats.vercel.app/api?username=rooyca&show_icons=true&theme=gruvbox)
