@@ -1,4 +1,3 @@
----
 
 <div id="header" align="center">
   <img src="https://johnnypr.github.io/img/hello.gif" width="100"/>
@@ -24,7 +23,5 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Rooyca&style=flat-square&color=blue" alt=""/>
 </div>
-
----
     
 <!-- ![IMG](https://github-readme-stats.vercel.app/api?username=rooyca&show_icons=true&theme=gruvbox) -->
