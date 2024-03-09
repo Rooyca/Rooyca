@@ -5,7 +5,7 @@
     <a href="https://rooyca.is-a.dev" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio"/>
     </a>
-    <a href="https://blog-4tw.pages.dev" target="_blank">
+    <a href="https://bloyca.pages.dev" target="_blank">
         <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog"/>
     </a>
     <a href="https://www.reddit.com/user/r0yca" target="_blank">
