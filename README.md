@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://johnnypr.github.io/img/hello.gif" width="100"/>
   <div id="badges">
-    <a href="https://rooyca.is-a.dev" target="_blank">
+    <a href="https://rooyca.github.io" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="https://bloyca.pages.dev" target="_blank">
