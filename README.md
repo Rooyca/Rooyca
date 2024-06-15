@@ -5,7 +5,7 @@
     <a href="https://rooyca.github.io" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio"/>
     </a>
-    <a href="https://bloyca.pages.dev" target="_blank">
+    <a href="https://dablog.pages.dev" target="_blank">
         <img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge&logo=hugo&logoColor=white" alt="Blog"/>
     </a>
     <a href="https://www.reddit.com/user/r0yca" target="_blank">
@@ -23,5 +23,6 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Rooyca&style=flat-square&color=blue" alt=""/>
 </div>
+
     
 <!-- ![IMG](https://github-readme-stats.vercel.app/api?username=rooyca&show_icons=true&theme=gruvbox) -->
